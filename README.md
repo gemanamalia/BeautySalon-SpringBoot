@@ -27,7 +27,7 @@
 3. Rate and review beauty services
 	+ <font color="#49cc90">**POST**</font> request: add new review
 	+ <font color="#61affe">**GET**</font>  request: get all reviews
-	+ <font color="red">**DELETE**<</font> request: delete review by id parameter (review id)
+	+ <font color="red">**DELETE**</font> request: delete review by id parameter (review id)
 4. Clients management
 	+ <font color="#49cc90">**POST**</font> request: add new client
 	+ <font color="#61affe">**GET**</font>  request: get all clients
