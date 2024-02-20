@@ -18,12 +18,10 @@
 1. Appointments management
 	+ <font color="#49cc90">**POST**</font> request: add new appointment
 	+ <font color="#61affe">**GET**</font> request: get all appointments no parameter
-	+ <font color="#61affe">**GET**</font>  request: get appointment by id parameter (appointment id)
 	+ <font color="red">**DELETE**</font> request: delete appointment by id parameter (appointment id)
 2. Basic inventory management for beauty products
 	+ <font color="#49cc90">**POST**</font> request: add new product
 	+ <font color="#61affe">**GET**</font>  request: get all products
-	+ <font color="#61affe">**GET**</font>  request: get product by id parameter (product id)
 	+ <font color="#61affe">**GET**</font>  request: get all products by name parameter (product name)
 	+ <font color="red">**DELETE**</font> request: delete product by id parameter (product id)
 3. Rate and review beauty services
