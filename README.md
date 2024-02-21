@@ -38,3 +38,6 @@
 	+ <font color="#61affe">**GET**</font>  request: get all beauty professionals
 	+ <font color="#61affe">**GET**</font>  request: get beauty professional by id parameter (beauty-professional id)
 	+ <font color="red">**DELETE**</font> request: delete beauty professional by id parameter (beauty-proessional id)
+
+## Entity Relationship Diagram
+(ER_Diagram.jpg)
