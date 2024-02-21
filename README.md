@@ -42,3 +42,6 @@
 ## Diagrams
 ![ER Diagram](ER_Diagram.jpg)
 ![DC_Diagram](DC_Diagram.jpg)
+
+## API Documentation
+![API_DOC](API_doc.png)
