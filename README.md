@@ -40,4 +40,4 @@
 	+ <font color="red">**DELETE**</font> request: delete beauty professional by id parameter (beauty-proessional id)
 
 ## Entity Relationship Diagram
-(ER_Diagram.jpg)
+1[ER Diagram](ER_Diagram.jpg)
